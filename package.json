@@ -10,6 +10,7 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@solar-icons/react": "^1.0.1",
     "@tiptap/pm": "^3.9.0",
     "@tiptap/react": "^3.9.0",
     "@tiptap/starter-kit": "^3.9.0",
