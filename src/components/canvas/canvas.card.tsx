@@ -1,10 +1,10 @@
 "use client";
 
-import "./card.css";
+import "./canvas.card.css";
 
 import { useState } from "react";
-import { Editor } from "@/components/tiptap-editor/editor";
-import { CardOptions } from "@/components/canvas-card-options/options";
+import { Editor } from "@/components/tiptap/tiptap";
+import { CardOptions } from "@/components/canvas/canvas.card.options";
 
 interface CanvasCardProps {
   content: string;

@@ -1,4 +1,4 @@
-import { CanvasCard } from "@/components/canvas-card/card";
+import { CanvasCard } from "@/components/canvas/canvas.card";
 import entries from "@/lib/data/sample-entries";
 
 function randomEntry() {

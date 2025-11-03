@@ -1,6 +1,6 @@
 "use client";
 
-import "@/components/tiptap-editor/editor.css";
+import "@/components/tiptap/tiptap.css";
 import { TaskItem, TaskList } from "@tiptap/extension-list";
 import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
